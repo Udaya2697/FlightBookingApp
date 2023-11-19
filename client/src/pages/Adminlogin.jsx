@@ -18,7 +18,7 @@ const Adminlogin = () => {
   const handleSubmit = async(e) => {
     e.preventDefault();
     try{
-    await axios.post("http://localhost:3000/adminlogin",{username,password})
+    await axios.post("debonair-cover-production.up.railway.app/adminlogin",{username,password})
     navigate('/adminhome')
     }
     catch(e){
