@@ -1,0 +1,29 @@
+/* AdminHome.css */
+
+.admin-home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .c01 {
+    margin-bottom: 20px;
+  }
+  
+  .c02 {
+    background-color: #3498db;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .nav-link:hover {
+    text-decoration: underline;
+  }
+  

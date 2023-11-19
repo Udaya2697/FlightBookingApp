@@ -1,0 +1,12 @@
+{
+  "name": "flightbookingapp-master",
+  "version": "1.0.0",
+  "description": "This is a web application for flight ticket booking, built using the MERN (MongoDB, Express.js, React, Node.js) stack. The application provides different functionalities for users and administrators.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
